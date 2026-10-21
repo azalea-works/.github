@@ -3,7 +3,7 @@
 GitHub Organization [azalea-works](https://github.com/azalea-works) 内で共通して使うものを管理するリポジトリです。
 
 > [!IMPORTANT]
-> GitHub の仕様上、このリポジトリは Public にする必要があります。[^public]
+> GitHub の仕様上、このリポジトリは Public にする必要があります[^public]。
 
 [^public]: [**Creating a default community health file** - GitHub Docs](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
